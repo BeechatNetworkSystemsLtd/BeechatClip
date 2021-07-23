@@ -1,0 +1,13 @@
+
+General info:
+- PCB Size 53x26mm
+- FR4-1.0mm
+- Minimum track: 0.2mm / Minimum gap: 0.2mm
+- 2 layers 
+- HASL
+- 1oz copper thickness
+- green solder mask, white silkscreen
+
+– Used VIAs:
+1) Through hole VIA: 0.65mm (pad) / 0.3mm (drill)
+2) Through hole VIA: 0.9mm (pad) / 0.5mm (drill)
