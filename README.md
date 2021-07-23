@@ -20,6 +20,10 @@ This product is a plug-and-play RF module that operates with the Digi XBee SMT l
 
 Additional on-board LED indication for TX/RX data, RSSI level and power (5V). Reset tactile button allows rebooting the RF module when needed.  
 
+Image
+-------------------
+![image](https://github.com/BeechatNetworkSystemsLtd/Beechat-Clip/raw/main/beechat-clip.jpg)
+
 Features
 -------------------
 
