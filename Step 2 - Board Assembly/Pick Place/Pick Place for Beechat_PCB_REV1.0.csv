@@ -1,0 +1,49 @@
+Altium Designer Pick and Place Locations
+C:\Users\ t460s\Documents\MEGA\MEGAsync\Upwork\Upwork\DONE\Nicholas\Beechat_REV1.0_Design\Project Outputs for Beechat_REV1.0_Design\Pick Place\Pick Place for Beechat_PCB_REV1.0.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/07/21
+Time:       14:43
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"U1","FT231XQ","TopLayer","QFN-20","446.850","814.961","360","IC USB SERIAL FULL UART 20QFN"
+"C14","100nF","TopLayer","CAP0402","267.716","964.567","90","Capacitor Ceramic 0402"
+"C13","100nF","TopLayer","CAP0402","649.606","964.567","90","Capacitor Ceramic 0402"
+"C1","10uF","TopLayer","CAP0603","220.472","771.654","90","Capacitor Ceramic 0603"
+"C2","47pF","TopLayer","CAP0402","346.457","480.315","270","Capacitor Ceramic 0402"
+"C3","4.7uF","TopLayer","CAP0603","606.299","728.346","270","Capacitor Ceramic 0603"
+"C4","100nF","TopLayer","CAP0402","267.716","783.465","90","Capacitor Ceramic 0402"
+"C5","100nF","TopLayer","CAP0402","606.299","637.795","90","Capacitor Ceramic 0402"
+"C6","100nF","TopLayer","CAP0402","515.748","637.795","90","Capacitor Ceramic 0402"
+"C7","10uF","TopLayer","CAP0603","606.299","952.756","90","Capacitor Ceramic 0603"
+"C8","47pF","TopLayer","CAP0402","346.457","543.307","90","Capacitor Ceramic 0402"
+"C9","10uF","TopLayer","CAP0603","114.173","799.213","360","Capacitor Ceramic 0603"
+"C10","10nF","TopLayer","CAP0402","267.716","885.827","270","Capacitor Ceramic 0402"
+"C11","4.7uF","TopLayer","CAP0603","314.961","952.756","90","Capacitor Ceramic 0603"
+"C12","100nF","TopLayer","CAP0402","551.181","637.795","90","Capacitor Ceramic 0402"
+"D1","ESD9B5.0ST5G","TopLayer","SOD-923","311.024","629.921","90","TVS DIODE 5V SOD923"
+"D2","ESD9B5.0ST5G","TopLayer","SOD-923","311.024","543.307","90","TVS DIODE 5V SOD923"
+"D3","ESD9B5.0ST5G","TopLayer","SOD-923","311.024","480.315","270","TVS DIODE 5V SOD923"
+"D4","ESD9B5.0ST5G","TopLayer","SOD-923","102.362","283.465","180","TVS DIODE 5V SOD923"
+"D5","ESD9B5.0ST5G","TopLayer","SOD-923","173.228","283.465","360","TVS DIODE 5V SOD923"
+"J1","USB4105-GF-A","TopLayer","USB4105-GF-A","157.480","511.811","90","USB SHIELDED I/O RECP TYPE C"
+"LED1","LED_0402","TopLayer","Led-0402","114.173","94.488","270","SMD LED"
+"LED2","LED_0402","TopLayer","Led-0402","66.929","94.488","270","SMD LED"
+"LED3","LED_0402","TopLayer","Led-0402","208.661","94.488","270","SMD LED"
+"LED4","LED_0402","TopLayer","Led-0402","161.417","94.488","270","SMD LED"
+"R3","1K","TopLayer","RES0402","114.173","173.228","90","Resistor SMD 0402"
+"R4","1K","TopLayer","RES0402","66.929","173.228","90","Resistor SMD 0402"
+"R5","22R","TopLayer","RES0402","397.638","531.496","360","Resistor SMD 0402"
+"R6","22R","TopLayer","RES0402","397.638","496.063","360","Resistor SMD 0402"
+"R8","5.1K","TopLayer","RES0402","177.165","248.031","180","Resistor SMD 0402"
+"R9","5.1K","TopLayer","RES0402","98.425","248.031","360","Resistor SMD 0402"
+"R10","330R","TopLayer","RES0402","208.661","173.228","90","Resistor SMD 0402"
+"R11","1K","TopLayer","RES0402","161.417","173.228","90","Resistor SMD 0402"
+"S1","8-1437565-1","TopLayer","8-1437565-1","452.756","136.102","360","SWITCH TACTILE SPST-NO 0.02A 15V"
+"U2","LDS3985M33R","TopLayer","SOT23-5","141.732","905.512","360","IC REG LINEAR 3.3V 300MA SOT23-5"
+"U3","XB8X-DMUS-001","TopLayer","XB8X-DMUS-001","1358.268","511.811","270","RX TXRX MOD ISM < 1GHZ U.FL SMD"
