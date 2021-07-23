@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Beechat_PCB_REV1.0.PcbDoc   7/22/2021  2:43:17 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : L1_TOP to L2_BOT
+ASCII RoundHoles File : Beechat_PCB_REV1.0-RoundHoles.TXT
+ASCII SlotHoles File : Beechat_PCB_REV1.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             170       PTH        19.54inch (496.40mm)
+T2      20mil (0.5mm)                                             Round             2         PTH        0.22inch (5.61mm)
+T3      24mil (0.6mm)                                             Slot              4         PTH        1.46inch (36.99mm)
+T4      28mil (0.7mm)                                             Round             2         NPTH       0.23inch (5.80mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              178
+
+Total Processing Time (hh:mm:ss) : 00:00:00
