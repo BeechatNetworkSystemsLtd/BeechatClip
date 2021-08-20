@@ -16,9 +16,10 @@ Repository Contents
 * **/Hardware** - All Eagle design files (.brd, .sch)
 * **/Production** - Test bed files and production panel files
 
-Image
+Images
 -------------------
 ![image](https://github.com/BeechatNetworkSystemsLtd/Beechat-Clip/raw/main/beechat-clip.jpg)
+![image2](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatClip/main/beechat-clip-2.png)
 
 Features
 -------------------
