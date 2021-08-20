@@ -19,7 +19,7 @@ Repository Contents
 Images
 -------------------
 ![image](https://github.com/BeechatNetworkSystemsLtd/Beechat-Clip/raw/main/beechat-clip.jpg)
-![image2](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatClip/main/beechat-clip-2.png)
+![image2](https://raw.githubusercontent.com/BeechatNetworkSystemsLtd/BeechatClip/main/beechat-clip-3.png)
 
 Features
 -------------------
