@@ -35,11 +35,11 @@ Repository Contents
 -------------------
 
 /OUT_Beechat_REV1.0:
-    • /Step 1 - PCB Manufacturing  (Gerber files, NC Drill, PCB specs)
-    • /Step 2 - Board Assembly (Pick & Place, Assembly drawing, 3DPDF, BOM)
-    • /Step 3 - 3D (3DPDF, STEP 3D)
-    • /Step 4 - Schematic (PDF schematic)
-    • /Step 5 - Source Files (source design in Altium Designer)
+* /Step 1 - PCB Manufacturing  (Gerber files, NC Drill, PCB specs)
+* /Step 2 - Board Assembly (Pick & Place, Assembly drawing, 3DPDF, BOM)
+* /Step 3 - 3D (3DPDF, STEP 3D)
+* /Step 4 - Schematic (PDF schematic)
+* /Step 5 - Source Files (source design in Altium Designer)
 
 Product Versions
 -------------------
