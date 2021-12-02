@@ -50,6 +50,7 @@ REV1.0 - first design revision
 License Information
 -------------------
 The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+All other trademarks, service marks and company names are the property of their respective owners.
 
 Distributed as-is; no warranty is given.
 
