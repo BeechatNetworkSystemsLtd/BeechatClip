@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\FinsihedProjects\Nicholas\Beechat_REV1.1_Design\Beechat_PCB_REV1.1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=beechat_pcb_rev1.1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=beechat_pcb_rev1.1-slotholes.txt|DrillLayers=gtl,gbl
