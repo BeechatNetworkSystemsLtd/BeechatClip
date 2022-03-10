@@ -26,7 +26,7 @@ Features
 -------------------
 
 * **Dimensions:** 26 x 53 mm
-* **USB - UART bridge:** FT231XQ
+* **USB - UART bridge:** FT231XQ-R
 * **RF module:** XB8X-DMUS-001
 * **Input voltage:** 5V (USB)
 * **Logic of UART signal:** 3.3V
@@ -50,6 +50,7 @@ REV1.0 - first design revision
 License Information
 -------------------
 The hardware is released under [Creative Commons ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+All other trademarks, service marks and company names are the property of their respective owners.
 
 Distributed as-is; no warranty is given.
 
